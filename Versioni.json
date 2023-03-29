@@ -1,5 +1,5 @@
 {
-  "jquery/jquery": "v3.6.0",
-  "vuejs/vue": "v2.6.12",
-  "angular/angular": "v12.2.7"
+  "jquery": "v3.6.0",
+  "vue": "v2.6.12",
+  "angular": "v12.2.7"
 }
