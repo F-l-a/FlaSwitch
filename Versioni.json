@@ -1,5 +1,5 @@
 {
-  "jquery/jquery" : "1"
+  "jquery" : "1"
   "vue" : "2"
   "angular" : "3"
 }
