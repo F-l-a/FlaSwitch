@@ -1,5 +1,5 @@
 {
-  "jquery": "v3.6.0",
-  "vue": "v2.6.12",
-  "angular": "v12.2.7"
+  "Atmosphere-NX/Atmosphere": "1.0.0",
+  "CTCaer/hekate": "5.0.0",
+  "tomvita/EdiZon-SE": "3.0.0"
 }
