@@ -1,5 +1,29 @@
 {
-  "Atmosphere-NX/Atmosphere": "1.0.0",
-  "CTCaer/hekate": "v7.0.0",
-  "tomvita/EdiZon-SE": "3.0.0"
-}
+  "Atmosphere-NX/Atmosphere" : "1.4.0",
+  "CTCaer/hekate" : "v5.9.0",
+  "mtheall/ftpd" : "v3.1.0",
+  "J-D-K/JKSV" : "09.01.2021",
+  "Huntereb/Awoo-Installer" : "v1.3.4",
+  "rashevskyv/dbi" : "368",
+  "XorTroll/Goldleaf" : "0.10",
+  "joel16/NX-Shell" : "4.01",
+  "tallbl0nde/NX-Activity-Log" : "v1.4.0",
+  "fortheusers/hb-appstore" : "v2.3.2",
+  "meganukebmp/Switch_90DNS_tester" : "v1.0.3",
+  "WerWolv/Hekate-Toolbox" : "v4.0.2",
+  "exelix11/SwitchThemeInjector" : "v-4.7",
+  "HamletDuFromage/aio-switch-updater" : "2.20.1",
+  "tomvita/EdiZon-SE" : "3.8.36",
+  "libretro/RetroArch" : "v1.10.3",
+  "switchbrew/nx-hbmenu" : "v3.5.1",
+  "WerWolv/nx-ovlloader" : "v1.0.6",
+  "WerWolv/Tesla-Menu" : "nd",
+  "Hartie95/fastCFWswitch" : "v1.3.0",
+  "masagrator/Status-Monitor-Overlay" : "0.8.1",
+  "WerWolv/ovl-sysmodules" : "v1.2.1",
+  "cathery/sys-ftpd" : "1.0.1",
+  "averne/Fizeau" : "v2.3.0",
+  "XorTroll/emuiibo" : "0.6.4",
+  "nedex/QuickNTP" : "1.2.1",
+  "ndeadly/MissionControl": "nd"
+ }
