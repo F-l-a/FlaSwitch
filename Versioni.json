@@ -7,10 +7,12 @@
   "rashevskyv/dbi" : "368",
   "XorTroll/Goldleaf" : "0.10",
   "joel16/NX-Shell" : "4.01",
+  "vgmoose/vgedit" : "nd",
   "tallbl0nde/NX-Activity-Log" : "v1.4.0",
   "fortheusers/hb-appstore" : "v2.3.2",
   "meganukebmp/Switch_90DNS_tester" : "v1.0.3",
   "WerWolv/Hekate-Toolbox" : "v4.0.2",
+  "iUltimateLP/NXGallery" : "2.0.0",
   "exelix11/SwitchThemeInjector" : "v-4.7",
   "HamletDuFromage/aio-switch-updater" : "2.20.1",
   "tomvita/EdiZon-SE" : "3.8.36",
@@ -25,5 +27,6 @@
   "averne/Fizeau" : "v2.3.0",
   "XorTroll/emuiibo" : "0.6.4",
   "nedex/QuickNTP" : "1.2.1",
+  "spacemeowx2/ldn_mitm" : "v1.14.0",
   "ndeadly/MissionControl": "nd"
  }
