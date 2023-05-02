@@ -1,6 +1,6 @@
 {
   "Atmosphere-NX/Atmosphere" : "1.4.0",
-  "version": "1.0",
+  "version": "2.15",
   "CTCaer/hekate" : "v5.9.0",
   "mtheall/ftpd" : "v3.1.0"  
 }
