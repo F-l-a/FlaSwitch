@@ -5,6 +5,8 @@ LOGICA
     -> 3per ogni repo: 3.1carico e visualizzo ultima versione + 3.2chiamo colori passando il file versioni installate se esiste (visualizza la versione installata e calcola i colori, mostrando il pulsante di modifica versione)
   
  TODO
- 
-  -posso mettere ogni id come Autore/Nome_CLASSE per passare alle funzioni solo Autore/Nome -> id calcolato con operazione <+ "CLASSE">
-  -pulsanti aggiornamento devono avere un id
+ - impostare gli alert nelle notifiche
+ - sistemare visualizzazione con bootstrap
+ - revisionare icone flags
+ - backup
+ - impostare saltyNX app non supportate (tinfoil)
