@@ -7,6 +7,5 @@ LOGICA
  TODO
  - impostare gli alert nelle notifiche
  - sistemare visualizzazione con bootstrap
- - revisionare icone flags
  - backup
  - impostare saltyNX app non supportate (tinfoil)
