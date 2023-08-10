@@ -5,7 +5,6 @@ LOGICA
     -> 3per ogni repo: 3.1carico e visualizzo ultima versione + 3.2chiamo colori passando il file versioni installate se esiste (visualizza la versione installata e calcola i colori, mostrando il pulsante di modifica versione)
   
  TODO
- - impostare gli alert nelle notifiche
+ - migliorare le notifiche
  - sistemare visualizzazione con bootstrap
  - backup
- - impostare saltyNX app non supportate (tinfoil)
