@@ -1,7 +1,7 @@
 {
   "NintendoHOSVersion": true,
-  "Atmosphere-NX/Atmosphere": false,
-  "CTCaer/hekate": true,
+  "Atmosphere-NX/Atmosphere": true,
+  "CTCaer/hekate": false,
   "suchmememanyskill/TegraExplorer": true,
   "shchmue/Lockpick_RCM": true,
   "Atmosphere/Fusee": true,
