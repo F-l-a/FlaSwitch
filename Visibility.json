@@ -5,8 +5,8 @@
   "suchmememanyskill/TegraExplorer": true,
   "shchmue/Lockpick_RCM": true,
   "Atmosphere/Fusee": true,
-  "mtheall/ftpd": true,
-  "J-D-K/JKSV": false,
+  "mtheall/ftpd": false,
+  "J-D-K/JKSV": true,
   "blawar/tinfoil": true,
   "Huntereb/Awoo-Installer": true,
   "rashevskyv/dbi": true,
@@ -44,5 +44,5 @@
   "exelix11/SysDVR": true,
   "spacemeowx2/ldn_mitm": true,
   "masagrator/ReverseNX-RT": true,
-  "ndeadly/MissionControl": false
+  "ndeadly/MissionControl": true
 }
