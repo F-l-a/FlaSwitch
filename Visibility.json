@@ -7,7 +7,7 @@
   "Atmosphere/Fusee": true,
   "mtheall/ftpd": true,
   "J-D-K/JKSV": true,
-  "blawar/tinfoil": false,
+  "blawar/tinfoil": true,
   "Huntereb/Awoo-Installer": true,
   "rashevskyv/dbi": true,
   "XorTroll/Goldleaf": true,
