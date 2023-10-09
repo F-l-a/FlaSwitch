@@ -1,5 +1,5 @@
 {
-  "NintendoHOSVersion": true,
+  "NintendoHOSVersion": false,
   "Atmosphere-NX/Atmosphere": true,
   "CTCaer/hekate": true,
   "suchmememanyskill/TegraExplorer": true,
